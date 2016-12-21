@@ -1,0 +1,10 @@
+RealmDemo.xcodeproj/xcuserdata
+RealmDemo.xcodeproj/project.xcworkspace
+RealmDemo.xcodeproj/project.xcworkspace/xcuserdata
+RealmDemo.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+RealmDemo.xcworkspace/xcuserdata
+RealmDemo.xcworkspace/contents.xcworkspacedata
+Pods
+*.DS_Store
+.DS_Store
+Podfile.lock
