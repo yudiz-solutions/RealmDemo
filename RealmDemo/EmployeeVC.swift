@@ -19,9 +19,6 @@ class EmployeeVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         self.title = dept.name
-        
-        dept.employees.sorted(byProperty: "name", ascending: true)
-        
         addObserverOnEmployees()
         // Do any additional setup after loading the view.
     }
